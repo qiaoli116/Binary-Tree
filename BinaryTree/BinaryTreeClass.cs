@@ -8,5 +8,6 @@ namespace BinaryTree
 {
     class BinaryTreeClass
     {
+        public int x;
     }
 }
